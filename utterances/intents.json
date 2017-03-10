@@ -1,0 +1,21 @@
+{
+  "intents": [
+    {
+      "intent": "IsFree",
+      "slots": [
+        {
+          "name": "room",
+          "type": "LIST_OF_ROOMS"
+        },
+        {
+          "name": "time",
+          "type": "AMAZON.TIME"
+        },
+        {
+          "name": "date",
+          "type": "AMAZON.DATE"
+        }
+      ]
+    }
+  ]
+}

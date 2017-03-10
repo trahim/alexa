@@ -1,0 +1,7 @@
+IsFree Is {room} free
+IsFree Is {room} free at {time}
+IsFree Is {room} free at {time} on {date}
+IsFree Is {room} free on {date} at {time}
+IsFree {room}
+IsFree {room} {time}
+IsFree {room} {time} {date}
